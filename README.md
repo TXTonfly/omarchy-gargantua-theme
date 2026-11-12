@@ -7,11 +7,11 @@
 ## Install
 
 ```bash
-omarchy theme install https://github.com/YOUR_GITHUB_USERNAME/omarchy-gargantua-theme
+omarchy theme install https://github.com/TXTonfly/omarchy-gargantua-theme
 omarchy theme set gargantua
 ```
 
-Replace `YOUR_GITHUB_USERNAME` with the account that published the repo. From the Omarchy wallpaper selector, choose the first image to get the default Gargantua view.
+Replace `TXTonfly` with the account that published the repo. From the Omarchy wallpaper selector, choose the first image to get the default Gargantua view.
 
 ## Wallpapers
 
