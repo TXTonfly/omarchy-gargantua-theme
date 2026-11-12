@@ -1,0 +1,12 @@
+LICENSE SCOPE — GARGANTUA THEME
+
+The Golden Brown-derived palette material in `colors.toml` is provided under the
+MIT license by its upstream author. The exact MIT text and copyright notice
+are reproduced in `LICENSES/GOLDEN-BROWN-MIT.txt`.
+
+This MIT license DOES NOT cover the nine AI-generated wallpaper PNGs in
+`backgrounds/`, the `preview.png` screenshot, or any underlying third-party
+motion-picture art, designs, characters, or trademarks. No blanket rights to
+redistribute or commercially exploit those elements are granted here.
+
+See `ARTWORK-NOTICE.md` and `README.md` for details.

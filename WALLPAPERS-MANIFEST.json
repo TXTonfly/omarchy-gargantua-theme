@@ -1,0 +1,65 @@
+[
+  {
+    "file": "00-gargantua-endurance-main.png",
+    "width": 1920,
+    "height": 1200,
+    "bytes": 3918237,
+    "sha256": "a1829dee94579250df79c9a6be68b09dff68d0c5ef3d2d8fdb07de03738252be"
+  },
+  {
+    "file": "01-coopers-farmhouse.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 2700680,
+    "sha256": "50d2dbb2c71f8626660604e8a55c138ce4342a3f1876189f60e04309440ec6c1"
+  },
+  {
+    "file": "02-saturn-approach.png",
+    "width": 1586,
+    "height": 892,
+    "bytes": 1792687,
+    "sha256": "5bcbb170a3850d3e89901aed8a0490d1c4c168125a639a69479e6cfc268aa09c"
+  },
+  {
+    "file": "03-endurance-closeup.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 2930948,
+    "sha256": "0d0c5a824d5d89d1499535424777c8e6f4a2ec7e6f05d98a006f441606b811a3"
+  },
+  {
+    "file": "04-millers-planet.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 3220822,
+    "sha256": "79596dbf56b6624623e1aef48c61865b5e09280daa26288cace759fd100ce060"
+  },
+  {
+    "file": "05-manns-planet.png",
+    "width": 3840,
+    "height": 2160,
+    "bytes": 10982439,
+    "sha256": "89160d9c1d6f502465dc6d8c7083b3feea445e118abf21d04013e43606930246"
+  },
+  {
+    "file": "06-tars-cockpit-first.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1769569,
+    "sha256": "68147b2090204bd55464162bbce8631aa5bbfacf0b34ee6f100fb0d0b480f2d0"
+  },
+  {
+    "file": "07-tesseract.png",
+    "width": 1585,
+    "height": 892,
+    "bytes": 2405642,
+    "sha256": "d064ee1b5bc5dfbd76ac356cc580c525ecd0754332e44a7c2a74e046b147e5d7"
+  },
+  {
+    "file": "08-gargantua-original-alternate.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1952701,
+    "sha256": "d9b7522aaed41e8b16886ccd3dbb1b332626d3fa68ec2be6b07b474f67b966ee"
+  }
+]
